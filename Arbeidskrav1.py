@@ -1,4 +1,6 @@
 
+#ARBEIDSKRAV 1 USN 
+
 #For begge biler
 km_årlig = 8000
 tr_avg = round(8.38 * 365)
